@@ -8,6 +8,6 @@ Information about smart contract whitelist values.
 https://bluezilla.vc/
 https://bscpad.com
 
-![alt text](https://github.com/prt1999/BluezillaWhitelist/blob/main/res/pic2.png)
+![alt text](https://github.com/prt1999/BluezillaWhitelist/blob/main/res/pic1-1.png)
 
-![alt text](https://github.com/prt1999/BluezillaWhitelist/blob/main/res/pic0.png)
+![alt text](https://github.com/prt1999/BluezillaWhitelist/blob/main/res/pic1-2.png)
